@@ -1,4 +1,4 @@
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">Võ Huy Khang [![Patreon][patreon-badge]][patreon-link] [![Paypal][paypal-badge]][paypal-link] <img alt="GitHub followers" src="https://img.shields.io/github/followers/OkamiMks?style=social" /> <a href="https://twitter.com/OkamiMwaree"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/OkamiMwaree?style=social"></a>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/OkamiMks?style=social" /> <a href="https://twitter.com/OkamiMwaree"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/OkamiMwaree?style=social"></a>
 <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
 
 ```C#
