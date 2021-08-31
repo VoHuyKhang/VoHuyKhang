@@ -1,8 +1,14 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Huykhangvo?style=social" />
+[patreon-badge]: https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DOkamiMks%26type%3Dpatrons&style=flat-square
+[patreon-link]: https://www.patreon.com/OkamiMks
+
+[paypal-badge]: https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square
+[paypal-link]: https://www.paypal.com/donate?hosted_button_id=NKQEXWK3RQDPQ&source=url
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Okami ラコステ [![Patreon][patreon-badge]][patreon-link] [![Paypal][paypal-badge]][paypal-link] <img alt="GitHub followers" src="https://img.shields.io/github/followers/OkamiMks?style=social" /> <a href="https://twitter.com/OkamiMwaree"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/OkamiMwaree?style=social"></a>
 <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
 
 ```C#
-public class huykhang (){
+public class Okami ラコステ (){
     var e = "Programmer and Game Developer";
  
     var langs = "ALGUMAS LINGUAGENS";
@@ -27,12 +33,14 @@ public class huykhang (){
 
 ## **GitHub Estatísticas**
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okamimks&theme=radical&show_icons=true) ![Okami](https://github-readme-stats.vercel.app/api/top-langs/?username=okamimks&hide=html&layout=compact&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=okamimks&theme=monokai)
 
 ## **Rede Sociais!**
 
-GitHub Estatísticas
-<a href="https://twitter.com/Huykhangvo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.instagram.com/okami.mks/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://t.me/OkamiMks"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://twitter.com/OkamiMwaree"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 ## **☕ Donates:**
 **Paypal: OkamiMks@protonmail.com** <br> <br>
