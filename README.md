@@ -2,7 +2,7 @@
 <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
 
 ```C#
-public class Okami ラコステ (){
+public class huykhang (){
     var e = "Programmer and Game Developer";
  
     var langs = "ALGUMAS LINGUAGENS";
@@ -27,14 +27,14 @@ public class Okami ラコステ (){
 
 ## **GitHub Estatísticas**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okamimks&theme=radical&show_icons=true) ![Okami](https://github-readme-stats.vercel.app/api/top-langs/?username=okamimks&hide=html&layout=compact&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=okamimks&theme=monokai)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okamimks&theme=radical&show_icons=true) ![Huykhangvo](https://github-readme-stats.vercel.app/api/top-langs/?username=Huykhangvo&hide=html&layout=compact&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Huykhangvo&theme=monokai)
 
 ## **Rede Sociais!**
 
-<a href="https://www.instagram.com/okami.mks/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://t.me/OkamiMks"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://twitter.com/OkamiMwaree"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.instagram.com/Huykhangvo.mks/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://t.me/Huykhangvo"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://twitter.com/Huykhangvo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 ## **☕ Donates:**
 **Paypal: OkamiMks@protonmail.com** <br> <br>
